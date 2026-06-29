@@ -74,9 +74,6 @@ NVIDIA-Stock-Forecasting-ML
 ├── figures/
 │   └── Figures used in Chapter 4
 │
-├── notebooks/
-│   └── (Optional Jupyter notebooks)
-│
 ├── src/
 │   ├── download_data.py
 │   ├── exploratory_data_analysis.py
