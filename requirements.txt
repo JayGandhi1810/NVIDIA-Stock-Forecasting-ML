@@ -1,0 +1,28 @@
+# Core Data Processing
+
+numpy>=2.0.0
+pandas>=2.2.0
+
+# Data Collection
+
+yfinance>=0.2.50
+
+# Data Visualization
+
+matplotlib>=3.9.0
+seaborn>=0.13.2
+
+# Machine Learning
+
+scikit-learn>=1.6.0
+xgboost>=3.2.0
+
+# Time Series Analysis
+
+statsmodels>=0.14.4
+arch>=7.2.0
+
+# Deep Learning
+
+tensorflow>=2.20.0
+keras>=3.10.0
